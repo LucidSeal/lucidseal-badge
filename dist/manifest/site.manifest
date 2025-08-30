@@ -1,0 +1,14 @@
+{
+  "name": "LucidSeal",
+  "short_name": "LucidSeal",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#1d2d44",
+  "background_color": "#ffffff",
+  "icons": [
+    { "src": "/dist/png/web-app-manifest-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/dist/png/web-app-manifest-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "prefer_related_applications": false
+}
